@@ -38,9 +38,9 @@
 | :--- | :--- | :--- |
 | 邻接表 | [Adjacency_Matrix.cpp](./Graph_Theory/Adjacency_Matrix.cpp) | / |
 | 链式前向星 | [Star_Representation.cpp](./Graph_Theory/Star_Representation.cpp) | / |
-| 深度优先搜索 | [Depth_First_Search.cpp](./Graph_Theory/Depth_First_Search.cpp) | / |
-| 广度优先搜索 | [Breadth_First_Search.cpp](./Graph_Theory/Breadth_First_Search.cpp) | / |
-| 最短路 (Dijkstra) | [Dijkstra.cpp](./Graph_Theory/Dijkstra.cpp) | / |
-| 最短路 (Floyd) | [Floyd.cpp](./Graph_Theory/Floyd.cpp) | / |
-| 最短路 (Spfa) | [Spfa.cpp](./Graph%20Theory/Spfa.cpp) | / |
-| 最小生成树 (Kruskal) | [Kruskal.cpp](./Graph_Theory/Kruskal.cpp) | / |
+| 深度优先搜索 | [Depth_First_Search.cpp](./Graph_Theory/Depth_First_Search.cpp) | 链式前向星 |
+| 广度优先搜索 | [Breadth_First_Search.cpp](./Graph_Theory/Breadth_First_Search.cpp) | 链式前向星 |
+| 最短路 (Dijkstra) | [Dijkstra.cpp](./Graph_Theory/Dijkstra.cpp) | 链式前向星 |
+| 最短路 (Floyd) | [Floyd.cpp](./Graph_Theory/Floyd.cpp) | 邻接表 |
+| 最短路 (Spfa) | [Spfa.cpp](./Graph%20Theory/Spfa.cpp) | 链式前向星 |
+| 最小生成树 (Kruskal) | [Kruskal.cpp](./Graph_Theory/Kruskal.cpp) | 并查集 |
